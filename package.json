@@ -1,0 +1,22 @@
+{
+  "name": "module17_challenge",
+  "version": "1.0.0",
+  "description": "Computer Science for JavaScript Challenge: Regex Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bzoulko/module17_challenge.git"
+  },
+  "author": "Brian Zoulko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bzoulko/module17_challenge/issues"
+  },
+  "homepage": "https://github.com/bzoulko/module17_challenge#readme",
+  "dependencies": {
+    "zero-md": "^2.3.6"
+  }
+}
